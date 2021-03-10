@@ -18,7 +18,7 @@
 <details>
   <summary>GPG key</summary>
   
-  [PubKey](https://raw.githubusercontent.com/neonxp/neonxp/master/pubkey.gpg)
+  [PubKey](https://raw.githubusercontent.com/neonxp/neonxp/master/pubkey.asc)
   
   [OpenPGP.org](https://keys.openpgp.org/search?q=a.kiryukhin%40mail.ru)
 
