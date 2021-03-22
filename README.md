@@ -7,15 +7,12 @@
 
 Я гофер из города Казани. В основном сюда пилю свои мелкие pet-проекты ;)
 
+Общаться предпочитаю по почте, прошу учитывать это. Телеграм - только для неотсрочных вопросов.
+
+---
+
 I'm gopher from Kazan city, Russian Federation.
 
+I prefer to communicate by e-mail. Telegram messenger only for urgent questions.
+
 [![Kazan](https://static-maps.yandex.ru/1.x/?ll=49.10555,55.797503&spn=0.1,0.1&l=map&z=12)](https://en.wikipedia.org/wiki/Kazan)
-
-<details>
-  <summary>GPG key</summary>
-  
-  [PubKey](https://raw.githubusercontent.com/neonxp/neonxp/master/pubkey.asc)
-  
-  [OpenPGP.org](https://keys.openpgp.org/search?q=a.kiryukhin%40mail.ru)
-
-</details>
