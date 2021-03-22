@@ -14,4 +14,4 @@ I'm gopher from Kazan city, Russian Federation.
 
 I prefer to communicate by e-mail. Telegram messenger only for urgent questions.
 
-[![Kazan](https://static-maps.yandex.ru/1.x/?ll=49.10555,55.797503&spn=0.1,0.1&l=map&z=12)](https://en.wikipedia.org/wiki/Kazan)
+![NeonXP GithubStats](https://github-readme-stats.vercel.app/api?username=neonxp&show_icons=true&theme=tokyonight&locale=ru&hide_title=1)
