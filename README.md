@@ -15,7 +15,6 @@ I'm gopher from Kazan city, Russian Federation.
 I prefer to communicate by e-mail. Telegram messenger only for urgent questions.
 
 ![NeonXP GithubStats](https://github-readme-stats.vercel.app/api?username=neonxp&show_icons=true&theme=tokyonight&locale=ru&custom_title=Статы&card_width=494)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neonxp&theme=tokyonight&locale=ru&hide=php&card_width=494)](https://github.com/anuraghazra/github-readme-stats)
 
 _* я убрал из статистики PHP, потому что я на нем больше не пишу_
