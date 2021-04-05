@@ -5,6 +5,8 @@
   [![Телеграм](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2F04f197a8ccd2632a15dc9b5c0e953351d42c3502%2Ftg1.json)](https://t.me/AlexBite)
   [![GPG Public key](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2Fad2862cbf93664b58e418c90dda37fa76bb630c4%2Fgpg.json)](https://keys.openpgp.org/search?q=a.kiryukhin%40mail.ru)
 
+[![FSF member since 2012](https://static.fsf.org/nosvn/associate/crm/347449.png)](https://fsf.org/)
+
 Я гофер из города Казани. В основном сюда пилю свои мелкие pet-проекты ;)
 
 Общаться предпочитаю по почте, прошу учитывать это. Телеграм - только для неотсрочных вопросов.
