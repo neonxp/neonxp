@@ -1,9 +1,9 @@
 ### Привет! 👋  
-  [![E-mail](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2F5cd27becbc6bee8bf62c62b5a17236b92fec9afc%2Fmail.json)](mailto:a.kiryukhin@member.fsf.org)
+  [![E-mail](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2F04860156f35f761ee1e1a32a17fc183f78ce07fe%2Fmail.json)](mailto:i@neonxp.ru)
   [![Mastodon](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com/neonxp/3d67672c7e09f39418a7d6cf193454fb/raw/6ebddb41ccfa6e4802be935effabf93a225272d6/mastodon.json)](https://ru.social/@neonxp)
   [![Телеграм](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2F04f197a8ccd2632a15dc9b5c0e953351d42c3502%2Ftg2.json)](https://t.me/neonxp)
   [![Телеграм](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2F04f197a8ccd2632a15dc9b5c0e953351d42c3502%2Ftg1.json)](https://t.me/AlexBite)
-  [![GPG Public key](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2Fad2862cbf93664b58e418c90dda37fa76bb630c4%2Fgpg.json)](https://keys.openpgp.org/search?q=a.kiryukhin%40mail.ru)
+  [![GPG Public key](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fgist.githubusercontent.com%2Fneonxp%2F3d67672c7e09f39418a7d6cf193454fb%2Fraw%2Fad2862cbf93664b58e418c90dda37fa76bb630c4%2Fgpg.json)](https://keys.openpgp.org/search?q=i%40neonxp.ru)
 
 [![FSF member since 2012](https://static.fsf.org/nosvn/associate/crm/347449.png)](https://my.fsf.org/join?referrer=347449)
 
