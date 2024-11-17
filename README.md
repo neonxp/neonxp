@@ -1,1 +1,1 @@
-I moved to https://gitrepo.ru/NeonXP
+I moved to https://git.neonxp.ru/NeonXP
